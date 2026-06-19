@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-recently graduated early with a bachelors in computer science. i build developer tooling used by hundreds of developers, and led product at an early-stage startup.
+recently graduated early with a bachelors in CS. i build developer tooling used by hundreds of developers, and led product at an early-stage startup.
 
 <br/>
 

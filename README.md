@@ -4,12 +4,10 @@
 
 <br/>
 
-**Full-stack engineer**
-
-Graduated early with a CS degree. I build developer tooling used by hundreds of developers, and led product at an early-stage startup.
+recently graduated early with a CS degree. i build developer tooling used by hundreds of developers, and led product at an early-stage startup.
 
 <br/>
 
-[website](https://evanklem.com) · [github](https://github.com/evanklem) · [linkedin](https://linkedin.com/in/evanklem) · [email](mailto:evanklem2004@gmail.com)
+[website](https://evanklem.com) · [linkedin](https://linkedin.com/in/evanklem) · [email](mailto:evanklem2004@gmail.com)
 
 </div>

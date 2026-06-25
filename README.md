@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-recently graduated early with a bachelors in CS and open to work. i build developer tooling used by hundreds of developers, i previously led product at an early-stage startup and performed qa at uber ai.
+I build developer tooling used by hundreds of developers, I previously led the full 0-to-1 at an early-stage startup and performed QA on LLM coding outputes at Uber AI. I am very passionate about open source, if you need help maintaining your repository or need some help with a project please reach out : ) 
 
 <br/>
 
